@@ -52,7 +52,7 @@ To clone a GitHub repository to your local computer, follow these steps :
 3\. Click the green "Code" button on the repository page.
 4\. Copy the URL provided under "HTTPS".
 5\. You can use your terminal (Mac/Linux) or command prompt (Windows) and navigate to the workspace folder you created in step 1. You can use the `cd` command to change directories
-    ```bash
+    ```
     cd path/to/your/workspace
     ```
 6\. YOu can also use VS Code terminal to do the same thing. Open VS Code, and open the workspace folder you created in step 1. Then open the terminal in VS Code by going to View > Terminal.
@@ -60,7 +60,7 @@ To clone a GitHub repository to your local computer, follow these steps :
   ![]](img/clonerepository.gif)  
 
 7\. Once you are in the workspace folder, run the following command to clone the repository:
-    ```bash
+    ```
     git clone  <repository-url>
     ```
     Replace `<repository-url>` with the URL you copied in step 4. 
