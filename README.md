@@ -60,11 +60,11 @@ To clone a GitHub repository to your local computer, follow these steps :
 You can use the `cd` command to change directories
     ```
     cd path/to/your/workspace
-    
     ```
 
-    Here is a video showing you how to do it in terminal (Mac): **Note I have created a folder I will delet in my workspace called workspace for this demo**
-    ![](img/clonerepo.gif)
+    
+Here is a video showing you how to do it in terminal (Mac): **Note I have created a folder I will delet in my workspace called workspace for this demo**
+![](img/clonerepo.gif)
 
 6\. You can also use VS Code terminal to do the same thing. Open VS Code, and open the workspace folder you created in step
 
