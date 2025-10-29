@@ -69,7 +69,10 @@ To clone a GitHub repository to your local computer, follow these steps :
 ## 3\. Create a New GitHub Repository from VS Code
 
 In this section, we will introduce a series of operations related to project management, such as create a project repository, compile a markdown file, and upload files to GitHub, and at last, publish a repository. As a practice, we will build a GitHub repository for your online resume. To see an integrated demo of this section, please check [here](repo-git.md).
-### 3.1  Create landing page repository for your github account
+
+### 3.1\.  Create landing page repository for your github account
+
+
 
 We will be building a simple landing page for your GitHub account using a basic markdown. Please follow the steps below:
 
@@ -82,6 +85,7 @@ We will be building a simple landing page for your GitHub account using a basic 
 ![](img/movefilesover.gif)
 
 3\. Once everything is moved you will need to edit your `index.html`.  Vsode makes everything very visual to better for you to edit. You can change the title, headings, paragraphs, links, and images to reflect your personal information. Next you will want to look at the live application before you push so Right-click on the `index.html` file and select `Open with Live Server`. If you do not have the Live Server extension installed, you will be prompted to install it.
+**Note this video shows where you can manually install live server**
 
 ![](img/installlive.gif)
 
