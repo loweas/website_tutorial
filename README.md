@@ -58,6 +58,7 @@ To clone a GitHub repository to your local computer, follow these steps :
 5\. You can use your terminal (Mac/Linux) or command prompt (Windows) and navigate to the workspace folder you created in step
 
 You can use the `cd` command to change directories
+
     ```
     cd path/to/your/workspace
     ```
