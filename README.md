@@ -78,7 +78,7 @@ We will be building a simple landing page for your GitHub account using a basic 
 ![](img/createfolder.gif)
 
 
-2\. On vscode, create a text file, and name it. Move/copy the HTML files from this downloaded file to your new created landing page. This file contains a simple HTML template for your landing page with bootstrap applications. There are a ton of more templates here: https://startbootstrap.com/themes/.
+2\. On vscode, create a text file, and name it. Move/copy the HTML files from this downloaded file to your new created landing page. This file contains a simple HTML template for your landing page with bootstrap applications. There are a ton of more templates here: https://startbootstrap.com/themes/. Another great sites I found the OA Template : https://themewagon.com/theme-price/free/
 ![](img/movefilesover.gif)
 
 3\. Once everything is moved you will need to edit your `index.html`.  Vsode makes everything very visual to better for you to edit. You can change the title, headings, paragraphs, links, and images to reflect your personal information. Next you will want to look at the live application before you push so Right-click on the `index.html` file and select `Open with Live Server`. If you do not have the Live Server extension installed, you will be prompted to install it.
