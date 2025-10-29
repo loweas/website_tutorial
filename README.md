@@ -78,31 +78,22 @@ We will be building a simple landing page for your GitHub account using a basic 
 ![](img/createfolder.gif)
 
 
+2\. On vscode, create a text file, and name it. Move/copy the HTML files from this downloaded file to your new created landing page. This file contains a simple HTML template for your landing page with bootstrap applications. There are a ton of more templates here: https://startbootstrap.com/themes/.
+![](img/movefilesover.gif)
 
-2\. On vscode, create a text file, and name it. Move/copy file in `resume.md` from this repository into your new foler.
+3\. Once everything is moved you will need to edit your `index.html`.  Vsode makes everything very visual to better for you to edit. You can change the title, headings, paragraphs, links, and images to reflect your personal information. Next you will want to look at the live application before you push so Right-click on the `index.html` file and select `Open with Live Server`. If you do not have the Live Server extension installed, you will be prompted to install it.
 
-Design your resume following the format in `resume.md`:
-![](img/resumemarkdown.gif)
-
-
-Once you have created the `resume.md` file, you can convert it to an HTML file using a markdown converter. You can use online tools like Dillinger (https://dillinger.io/) or install a markdown converter extension in VS Code.
+3\. After editing, save the file. You can preview your landing page by opening the `index.html` file in a web browser. Make sure everything looks good.
 
 
+![](img/golive.gif)
+
+4\. Now you need to initialize a Git repository in your landing page folder. Nevigated to source control tab on vscode and click on `Initialize Repository`.
+
+![](img/initializerepository.gif)
+
+5\. After you publish it got to github and navigate to the repository published. You will need to make the repository public if you want it to be seen by everyone. Go to `Settings` > `Manage Access` > `Change repository visibility` and select `Public`.
+![](img/pages.gif)
 
 
-
-
-3\. Open the folder you just created on vscode. Edit the `index.html` file to include your information. You can edit the texts, images, links, and other information in this file.
-
-
-[](img/fillout.gif)
-
-
-4\. After editing, you can preview the `index.html` file on your browser. Right-click on the `index.html` file and select `Open with Live Server`. If you do not have the Live Server extension installed, you will be prompted to install it.
-
-
-
-
-
-
-
+6\. Finally, to view your landing page, go to `https://[account_username].github.io/`. Replace `[account_username]` with your actual GitHub username. You should see your landing page live on the web!
