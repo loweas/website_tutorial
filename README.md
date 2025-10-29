@@ -83,17 +83,21 @@ We will be building a simple landing page for your GitHub account using a basic 
 
 3\. Once everything is moved you will need to edit your `index.html`.  Vsode makes everything very visual to better for you to edit. You can change the title, headings, paragraphs, links, and images to reflect your personal information. Next you will want to look at the live application before you push so Right-click on the `index.html` file and select `Open with Live Server`. If you do not have the Live Server extension installed, you will be prompted to install it.
 
-3\. After editing, save the file. You can preview your landing page by opening the `index.html` file in a web browser. Make sure everything looks good.
+![](img/installlive.gif)
+
+4\. After editing, save the file. You can preview your landing page by opening the `index.html` file in a web browser. Make sure everything looks good.
 
 
 ![](img/golive.gif)
 
-4\. Now you need to initialize a Git repository in your landing page folder. Nevigated to source control tab on vscode and click on `Initialize Repository`.
+5\. Now you need to initialize a Git repository in your landing page folder. Nevigated to source control tab on vscode and click on `Initialize Repository`.
 
 ![](img/initializerepository.gif)
 
-5\. After you publish it got to github and navigate to the repository published. You will need to make the repository public if you want it to be seen by everyone. Go to `Settings` > `Manage Access` > `Change repository visibility` and select `Public`.
+6\. After you publish it got to github and navigate to the repository published. You will need to make the repository public if you want it to be seen by everyone. Go to `Settings` > `Manage Access` > `Change repository visibility` and select `Public`.
 ![](img/pages.gif)
 
+7\. After making the repository public, go to the `Settings` tab of your repository. Scroll down to the "GitHub Pages" section. Under "Source", select the branch you want to use (usually `main` or `master`) and click "Save". Your site will be published at `https://[account_username].github.io/`.
 
-6\. Finally, to view your landing page, go to `https://[account_username].github.io/`. Replace `[account_username]` with your actual GitHub username. You should see your landing page live on the web!
+
+8\. Finally, to view your landing page, go to `https://[account_username].github.io/`. Replace `[account_username]` with your actual GitHub username. You should see your landing page live on the web!
