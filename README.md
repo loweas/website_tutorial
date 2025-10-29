@@ -55,13 +55,24 @@ To clone a GitHub repository to your local computer, follow these steps :
 
 4\. Copy the URL provided under "HTTPS".
 
-5\. You can use your terminal (Mac/Linux) or command prompt (Windows) and navigate to the workspace folder you created in step 1. You can use the `cd` command to change directories
+5\. You can use your terminal (Mac/Linux) or command prompt (Windows) and navigate to the workspace folder you created in step
+
+You can use the `cd` command to change directories
     ```
     cd path/to/your/workspace
+    
     ```
-6\. You can also use VS Code terminal to do the same thing. Open VS Code, and open the workspace folder you created in step 1. Then open the terminal in VS Code by going to View > Terminal.
 
-  ![](img/clonerepository.gif)  
+    Here is a video showing you how to do it in terminal (Mac): **Note I have created a folder I will delet in my workspace called workspace for this demo**
+    ![](img/clonerepo.gif)
+
+6\. You can also use VS Code terminal to do the same thing. Open VS Code, and open the workspace folder you created in step
+
+ Then open the terminal in VS Code by going to View > Terminal.
+
+ Here is a small demo:
+
+  ![](img/gitclonevscode.gif)  
 
 7\. Once you are in the workspace folder, run the following command to clone the repository:
     ```
@@ -70,7 +81,7 @@ To clone a GitHub repository to your local computer, follow these steps :
     Replace `<repository-url>` with the URL you copied in step 4. 
 
 
-## 3\. Create a New GitHub Repository from VS Code
+## 3\. Now lets Create a New GitHub Repository from VS Code
 
 In this section, we will introduce a series of operations related to project management, such as create a project repository, compile a markdown file, and upload files to GitHub, and at last, publish a repository. As a practice, we will build a GitHub repository for your online resume. To see an integrated demo of this section, please check [here](repo-git.md).
 
